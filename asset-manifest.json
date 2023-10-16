@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.852b0cdc.css",
-    "main.js": "/react-gh-pages/static/js/main.0cc0ad03.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.852b0cdc.css.map": "/react-gh-pages/static/css/main.852b0cdc.css.map",
-    "main.0cc0ad03.js.map": "/react-gh-pages/static/js/main.0cc0ad03.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/EdYoda-Stories/static/css/main.852b0cdc.css",
+    "main.js": "/EdYoda-Stories/static/js/main.200f2850.js",
+    "static/js/787.28cb0dcd.chunk.js": "/EdYoda-Stories/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/EdYoda-Stories/index.html",
+    "main.852b0cdc.css.map": "/EdYoda-Stories/static/css/main.852b0cdc.css.map",
+    "main.200f2850.js.map": "/EdYoda-Stories/static/js/main.200f2850.js.map",
+    "787.28cb0dcd.chunk.js.map": "/EdYoda-Stories/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.852b0cdc.css",
-    "static/js/main.0cc0ad03.js"
+    "static/js/main.200f2850.js"
   ]
 }
